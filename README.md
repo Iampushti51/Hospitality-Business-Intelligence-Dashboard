@@ -57,9 +57,23 @@ Helps management optimize pricing and availability strategies
 
 Supports performance monitoring and strategic planning
 
-📂 Files Included
+📂 Repository Contents
 
-Hospitality Dashboard.pbit – Power BI dashboard file
+Hospitality Dashboard.pbit – Power BI dashboard template
+
+*.csv – Dataset files used for analysis and reporting
+
+Analytical_Report.pdf – Detailed analytical summary of dashboard insights
+
+Metrics_and_DAX_List.pdf – Documentation of:
+
+Measures created
+
+Business purpose of each metric
+
+DAX queries used for calculations
+
+(All supporting files are included to ensure transparency, clarity, and reproducibility of the analysis.)
 
 🚀 How to Use
 
